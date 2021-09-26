@@ -1,12 +1,20 @@
-# main links
+  # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "All Posts"
+    url: /all/
+  - title: "Recent Posts"
+    url: /recent/
+  - title: "Clinical Trial"
+    url: /categories/ClinicalTrial/
+  - title: "Survival Analysis"
+    url: /categories/SurvivalAnalysis/
+  - title: "Glm"
+    url: /categories/Glm/
+  - title: "Machine Learning"
+    url: /categories/MachineLearning/
+  - title: "Deep Learning"
+    url: /categories/DeepLearning/
+  - title: "Others"
+    url: /categories/others/
   # - title: "Sitemap"
   #   url: /sitemap/
