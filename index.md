@@ -28,18 +28,18 @@ feature_row1:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/img/bayes.png
+  - image_path: /assets/img/research.png
     alt: "placeholder image 2"
     title: "Machine Learning"
     excerpt: 'Machine Learning'
-    url: "categories/Bayesian/"
+    url: "categories/MachineLearining/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/img/others.png
+  - image_path: /assets/img/deep-learning.png
     alt: "placeholder image 6"
-    title: "Others"
-    excerpt: '해석학 등 기타 내용'
-    url: "/categories/others/"
+    title: "Deep Learining"
+    excerpt: 'Deep Learining'
+    url: "/categories/DeepLearining/"
     btn_label: "Read More"
     btn_class: "btn--primary"
     
