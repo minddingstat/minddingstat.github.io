@@ -149,6 +149,7 @@ footer:
       # url:
 
 
+
 # Reading Files
 include:
   - .htaccess
@@ -193,7 +194,6 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -273,17 +273,24 @@ compress_html:
   ignore:
     envs: development
 
-
 # Defaults
 defaults:
-  # _posts
+
+#_posts
   - scope:
       path: ""
       type: posts
     values:
       layout: single
-      author_profile: true
+      classes: wide
       read_time: true
-      comments: # true
+      author_profile: true
+      use_math: true
+      comments: true
       share: true
       related: true
+      sitemap :
+          changefreq : daily
+          priority : 1.0
+      header:
+          overlay_image: 
