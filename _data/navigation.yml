@@ -16,3 +16,10 @@ main:
     url: /categories/DeepLearning/
   # - title: "Sitemap"
   #   url: /sitemap/
+  
+  foo:
+  - title: "Clinical Trial"
+    url: /categories/ClinicalTrial/
+    children:
+       - title: "asdf"
+         url: /asdfadf
