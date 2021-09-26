@@ -14,7 +14,5 @@ main:
     url: /categories/MachineLearning/
   - title: "Deep Learning"
     url: /categories/DeepLearning/
-  - title: "Others"
-    url: /categories/others/
   # - title: "Sitemap"
   #   url: /sitemap/
