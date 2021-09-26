@@ -17,7 +17,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   
-  foo:
+foo:
   - title: "Clinical Trial"
     url: /categories/ClinicalTrial/
     children:
